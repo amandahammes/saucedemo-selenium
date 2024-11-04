@@ -5,36 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a9d1804-a8c7-4d3c-a2f7-885433ea00ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Framework/Browser/DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Framework/Browser/TypeBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Framework/Browser/Waits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Framework/Report/Report.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Framework/Report/ReportFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Framework/Report/ReportType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Framework/Report/Screenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Framework/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Framework/Utils/CreateFolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Framework/Utils/DateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Framework/Utils/FilesOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Properties/url.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PageObjects/CartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PageObjects/CheckoutOnePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PageObjects/CheckoutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PageObjects/CheckoutTwoPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PageObjects/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PageObjects/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/CartTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/CheckoutOneTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/HomeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/LoginTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestCases/RealizarCompra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read.me" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/Tasks/CheckoutTwoTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/Validations/CartValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/Validations/CheckoutOneValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/Validations/CheckoutTwoValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/Validations/HomeValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2e/Validations/LoginValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Framework/Browser/Waits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Framework/Browser/Waits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjects/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/PageObjects/CartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjects/CheckoutOnePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/PageObjects/CheckoutOnePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjects/CheckoutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/PageObjects/CheckoutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjects/CheckoutTwoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/PageObjects/CheckoutTwoPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjects/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/PageObjects/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjects/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/PageObjects/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks/CartTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/Tasks/CartTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks/CheckoutOneTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/Tasks/CheckoutOneTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks/HomeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/Tasks/HomeTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks/LoginTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/Tasks/LoginTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCases/RealizarCompra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e2e/TestCases/RealizarCompra.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +72,43 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.RealizarCompra.realizarCompraDoisProdutos (1)">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amanda.hammes\Documents\Estudos\saucedemo-selenium\src\test\java\ui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RealizarCompra.realizarCompraDeUmProduto">
+    <configuration name="RealizarCompra" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="saucedemo-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e2e.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e2e.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="e2e.TestCases.RealizarCompra" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RealizarCompra.realizarCompraDeUmProduto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="saucedemo-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e2e.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e2e.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="e2e.TestCases.RealizarCompra" />
+      <option name="METHOD_NAME" value="realizarCompraDeUmProduto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RealizarCompra.realizarCompraDoisProdutos (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="saucedemo-selenium" />
       <extension name="coverage">
@@ -92,6 +119,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="TestCases" />
       <option name="MAIN_CLASS_NAME" value="TestCases.RealizarCompra" />
+      <option name="METHOD_NAME" value="realizarCompraDoisProdutos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RealizarCompra.realizarCompraDoisProdutos (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="saucedemo-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e2e.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e2e.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="e2e.TestCases.RealizarCompra" />
       <option name="METHOD_NAME" value="realizarCompraDoisProdutos" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -110,6 +153,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RealizarCompra.realizarCompraDeUmProduto" />
+        <item itemvalue="JUnit.RealizarCompra.realizarCompraDoisProdutos (2)" />
+        <item itemvalue="JUnit.RealizarCompra" />
         <item itemvalue="JUnit.RealizarCompra.realizarCompraDoisProdutos (1)" />
         <item itemvalue="JUnit.RealizarCompra.realizarCompraDoisProdutos" />
       </list>
@@ -125,5 +171,16 @@
       <updated>1713805750036</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/e2e/Tasks/CheckoutTwoTask.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package PageObjects;
+package e2e.PageObjects;
 
 import Framework.Browser.Waits;
 import org.openqa.selenium.By;
@@ -11,7 +11,7 @@ public class CheckoutOnePage {
 
     public CheckoutOnePage(WebDriver driver) {
         this.driver = driver;
-        wait = new Waits(this.driver);
+        wait = new Waits(driver);
     }
 
     public WebElement getNameInput(){

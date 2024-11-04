@@ -1,9 +1,11 @@
-package PageObjects;
+package e2e.PageObjects;
 
 import Framework.Browser.Waits;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+
+import java.util.List;
 
 public class HomePage {
     private WebDriver driver;
@@ -40,5 +42,14 @@ public class HomePage {
 
     public WebElement getCartButton(){
         return wait.visibilityOfElement(By.className("shopping_cart_link"));
+    }
+
+    public List<WebElement> listaDeItens() {
+        List<WebElement> itemNames = driver.findElements(By.cssSelector("[data-test='inventory-item-name']"));
+        return itemNames;
+    }
+
+    public WebElement getPageTitle() {
+        return wait.visibilityOfElement(By.cssSelector("#header_container > div > span"));
     }
 }

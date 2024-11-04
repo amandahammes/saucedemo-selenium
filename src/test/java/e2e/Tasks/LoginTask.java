@@ -1,6 +1,6 @@
-package Tasks;
+package e2e.Tasks;
 
-import PageObjects.LoginPage;
+import e2e.PageObjects.LoginPage;
 import org.openqa.selenium.WebDriver;
 
 public class LoginTask {
